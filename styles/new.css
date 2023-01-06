@@ -1,0 +1,28 @@
+/* Banner Styles */
+header{
+    background-image: url('../new-developer/images/banner/banner3.png');
+    height: 808px;
+    text-align: right;
+}
+.banner-title{
+    font-weight: 700;
+    font-size: 60px;
+    color: white;
+    padding: 200px 100px 0 700px;
+   
+}
+.banner-description{
+    font-weight: 400;
+    font-size: 17px;
+    color: white;
+    padding: 0px 100px 32px 845px;
+}
+.btn-color{
+    color: #005fac;
+    font-size: 18px;
+    padding: 20px 20px;
+    font-weight: 600;
+    margin-right: 100px;
+
+}
+
