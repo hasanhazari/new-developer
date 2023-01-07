@@ -1,4 +1,9 @@
 /* Banner Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
 header{
     background-image: url('../new-developer/images/banner/banner3.png');
     height: 808px;
@@ -98,6 +103,7 @@ header{
     height: 300px;
     text-align: left;
     margin-left: 250px;
+    margin-top: 50px;
 }
 .contant-style{
     font-weight: 700;
@@ -109,7 +115,7 @@ header{
     font-weight: 600;
     font-size: 20px;
     color: #005FAC;
-    margin: 0px 620px 0px 65px;
+    margin: 25px 620px 0px 65px;
     padding: 18px 30px;
     border-radius: 12px;
 }
