@@ -3,19 +3,22 @@ header{
     background-image: url('../new-developer/images/banner/banner3.png');
     height: 808px;
     text-align: right;
+    margin-bottom: 100px;
+
+    
 }
 .banner-title{
     font-weight: 700;
     font-size: 60px;
     color: white;
-    padding: 200px 100px 0 700px;
+    padding: 200px 100px 0 1200px;
    
 }
 .banner-description{
     font-weight: 400;
     font-size: 17px;
     color: white;
-    padding: 0px 100px 32px 845px;
+    padding: 0px 100px 32px 1000px;
 }
 .btn-color{
     color: #005fac;
@@ -23,6 +26,90 @@ header{
     padding: 20px 20px;
     font-weight: 600;
     margin-right: 100px;
+    margin-bottom: 260px;
     border-radius: 12px;
 }
+/* section styles */
+.section{
+    background-image: url('../new-developer/images/person.png');
+    background-repeat: no-repeat;
+    height: 730px;
+    background-position: right;
+   margin-right: 200px;
+   margin-bottom: 70px;    
 
+}
+.section-title{
+    text-align: left;
+    font-weight: 700;
+    font-size: 40px;
+    padding: 250px 900px 0px 300px;
+    
+}
+.section-description{
+    text-align: left;
+    font-weight: 400;
+    font-size: 18px;
+    color: #444343;
+    padding: 0px 750px 0px 300px;
+    }
+.list-item{
+    text-align: left;
+    padding: 0px 850px 200px 320px;
+}
+/* my plan styles */
+.center{
+    text-align: center;
+}
+.center-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    padding-top: 150px;
+
+}
+.flex{
+    display: flex;
+    gap: 40px;
+    padding-left: 70px;
+    margin-top: 120px;
+}
+.my-plan{
+    padding: 10px 140px;
+}
+.my-plan-title{
+    font-weight: 700;
+    font-size: 23px;
+    color: #151414;
+    padding-left: 28px;
+    text-align: center;
+}
+.my-plan-description{
+    font-weight: 500;
+    font-size: 18px;
+    color: #737272;
+    text-align: center;
+}
+/* Alaways keep */
+.contant{
+    background-image: url('../new-developer/images/gradient1.png'), url('../new-developer/images/watch.png');
+    background-repeat: no-repeat;
+    width: 1240px;
+    height: 300px;
+    text-align: left;
+    margin-left: 250px;
+}
+.contant-style{
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    padding: 60px 700px 0px 65px;
+}
+.button-color{
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+    margin: 0px 620px 0px 65px;
+    padding: 18px 30px;
+    border-radius: 12px;
+}
