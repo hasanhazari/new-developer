@@ -175,9 +175,9 @@ padding-left: 100px;
     font-weight: 600;
     font-size: 60px;
     color: #FFFFFF;
-    padding-right: 300px;
+    padding-right: 90px;
     margin-top: 0px;
-    padding-bottom: 100px;
+    padding-bottom: 5px;
 }
 .btn-color{
     font-weight: 600;
@@ -203,7 +203,9 @@ padding-left: 100px;
 
 }
 .email-style{
-    width: 40%;
+    width: 50%;
+    justify-content: end;
+    justify-items: end;
 
 }
 .sub-styles{
@@ -213,4 +215,19 @@ padding-left: 100px;
 .social-icon{
     width: 50px;
     height: 50px;
+}
+.subscrive{
+    width: 50px;
+    height: 50px;
+    padding: 60px 0px 0px 40px ;
+}
+.subscribe-button{
+    padding: 15px;
+    font-size: 20px;
+    margin-top: 20PX;
+    margin-right: 100px;
+    background-color: #000000;
+    color: #FFFFFF;
+    border-radius: 5px;
+    border: 2PX solid white ;
 }
